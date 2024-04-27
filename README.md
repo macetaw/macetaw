@@ -10,12 +10,12 @@
 
 ### Hi there, I'm Maceta. ¡Encantado de Conocerte! 👋
 
-### Estudiante de 5to Ciclo
+### Estudiante de 5to Ciclo, de la Carrera de Desarrollo De Sistemas en el IESTP Misioneros Monfortianos.
 
-* 👂 Mi Nombre es Kevin. 
-* 🔭 Actualmente desarrollo, practico y ejecuto lenguajes Basicos de FrontEnd.  
-* 🌱 Me encuentro aprendiendo e induciendome a la Auditoria.
-* ❤️ Me apasiona integrarme a los nuevos desarrollos, conocer sobre las nuevas tecnologias y como estas se desarrollan con los avances. 
+* Mi Nombre es Kevin. 
+* Actualmente desarrollo, practico y ejecuto lenguajes Basicos de FrontEnd.  
+* Me encuentro aprendiendo e induciendome a la Auditoria.
+* Me apasiona integrarme a los nuevos desarrollos, conocer sobre las nuevas tecnologias y como estas se desarrollan con los avances. 
   
 
 <!--
