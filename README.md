@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://pics.craiyon.com/2024-04-27/vP9KCc-hTm-risPCVm-Yrg.webp" width="1000" height="600"/>
+  <img decoding="async" src="https://blog.foto24.com/wp-content/uploads/2020/05/limon_pintado_de_azul.jpg" width="1000" height="580"/>
 </div>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
